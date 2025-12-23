@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+
+@media (min-width: 1024px) {
+  .bg-image {
+    background-image: url(../../public/background.png);
+  }
+
+  .con::after {
+    content: '';
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    background: #c1d9fb;
+    transform: translate(490px, 150px);
+    border-radius: 50%;
+  }
+
+  .skillMiniBox{
+    background-color: rgba(255, 255, 255, 0.137);
+    border-color: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(25px);
+    box-shadow: -5px 5px 22px rgba(10, 10, 10, 0.15);
+  }
+
+
+  .box-color {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(25px);
+    box-shadow: -15px 17px 17px rgba(10, 10, 10, 0.15);
+  }
+
+  .font-color {
+    color: #242329;
+  }
+
+  .font-color2 {
+    color: #582acd;
+  }
+
+}
+
+/* .con::after{
+  content: '';
+  position: absolute;
+  height: 300px;
+  width: 300px;
+  background: #c1d9fb;
+  transform: translate(490px, 150px);
+  border-radius: 50%;
+}
+
+.box-color{
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(25px);
+  box-shadow: -15px 17px 17px rgba(10,10, 10, 0.15);
+}
+
+.font-color{
+  color: #242329;
+}
+
+.font-color2{
+  color: #582acd;
+} */
+
+.skillmobilecardbg{
+    
+background: #F5F1DC;
+
+}
