@@ -67,7 +67,7 @@ export default function HomePage() {
               <div className="lg:h-[78vh] lg:w-[45%] lg:m-0 lg:flex lg:items-center lg:order-2 ---------- order-1 ml-7">
                 <div className="lg:h-[50vh] lg:w-[35rem]  lg:flex lg:justify-center lg:gap-3 lg:flex-col ">
                   <div className="lg:mb-8 ----------- mb-6">
-                    <h1 className="lg:text-5xl ---------- text-4xl font-bold">Hi, I'm <span className="lg:text-black ---------- text-[#582acd]">Farzad</span></h1>
+                    <h1 className="lg:text-5xl ---------- text-4xl font-bold">Hi, I&apos;m <span className="lg:text-black ---------- text-[#582acd]">Farzad</span></h1>
                   </div>
                   <div className="mb-1">
                     <h3 className="lg:text-2xl font-color2 lg:font-bold ----------- text-[16px] font-bold">Frontend Developer</h3>
