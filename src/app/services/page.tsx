@@ -31,7 +31,7 @@ export default function Services() {
                               {/* the projects box */}
                               <div className="lg:flex lg:flex-row w-full gap-6  justify-center">
                                   <div>
-                                      <ServicesCard/>
+                                      {/* <ServicesCard/> */}
                                   </div>
                                   <div>
                                       
