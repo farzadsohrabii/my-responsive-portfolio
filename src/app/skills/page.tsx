@@ -37,8 +37,7 @@ export default function Skills() {
                                             <MobileSkills skillname="html" />
                                         </div>
                                         <div className="lg:w-full lg:h-1/2 lg:bg-[#c0dafb]/60 lg:rounded-2xl lg:justify-center skillMiniBox">
-                                            <SkillCircle name="Python" percent={50} color="#61c3b6" percentColor="text-[#61c3b6]" />
-                                            <MobileSkills skillname="css" />
+                                            <SkillCircle name="Python" percent={65} color="#61c3b6" percentColor="text-[#61c3b6]" />
                                         </div>
                                     </div>
                                     <div className="lg:flex lg:flex-col lg:w-[40%] lg:h-[90%]  lg:gap-6 lg:mb-8 ---------- flex">
@@ -47,21 +46,33 @@ export default function Skills() {
                                             <MobileSkills skillname="js" />
                                         </div>
                                         <div className="lg:w-full lg:h-1/2 lg:bg-[#c0dafb]/60 lg:rounded-2xl lg:justify-center skillMiniBox">
-                                            <SkillCircle name="WordPress" percent={70} color="#3f3964" percentColor="text-[#3f3964]" />
-                                            <MobileSkills skillname="react" />
+                                            <SkillCircle name="WordPress" percent={45} color="#3f3964" percentColor="text-[#3f3964]" />
                                         </div>
                                     </div>
+
                                     <div className=" lg:flex-col lg:w-[40%] lg:h-[90%]  lg:gap-6 lg:mb-8 lg:hidden ---------- flex">
                                         <div className="lg:w-full lg:h-1/2 lg:bg-[#c0dafb]/60 lg:rounded-2xl lg:justify-center skillMiniBox">
                                             <MobileSkills skillname="next js" />
                                         </div>
+                                    </div>
+                                    <div className="lg:hidden lg:flex-col lg:w-[40%] lg:h-[90%]  lg:gap-6 lg:mb-8 ---------- flex">
+                                        <div className="lg:w-full lg:h-1/2 lg:bg-[#c0dafb]/60 lg:rounded-2xl lg:justify-center skillMiniBox">
+                                            <MobileSkills skillname="css" />
+                                        </div>
+                                    </div>
+                                    <div className="lg:hidden lg:flex-col lg:w-[40%] lg:h-[90%]  lg:gap-6 lg:mb-8 ---------- flex">
+                                        <div className="lg:w-full lg:h-1/2 lg:bg-[#c0dafb]/60 lg:rounded-2xl lg:justify-center skillMiniBox">
+                                            <MobileSkills skillname="python" />
+                                        </div>
+                                    </div>
+                                    <div className="lg:hidden lg:flex-col lg:w-[40%] lg:h-[90%]  lg:gap-6 lg:mb-8 ---------- flex">
                                         <div className="lg:w-full lg:h-1/2 lg:bg-[#c0dafb]/60 lg:rounded-2xl lg:justify-center skillMiniBox">
                                             <MobileSkills skillname="tailwind" />
                                         </div>
                                     </div>
                                     <div className="lg:hidden lg:flex-col lg:w-[40%] lg:h-[90%]  lg:gap-6 lg:mb-8 ---------- flex">
                                         <div className="lg:w-full lg:h-1/2 lg:bg-[#c0dafb]/60 lg:rounded-2xl lg:justify-center skillMiniBox">
-                                            <MobileSkills skillname="python" />
+                                            <MobileSkills skillname="react" />
                                         </div>
                                     </div>
                                 </div>
