@@ -31,7 +31,7 @@ buttonColor,
 }:ProjectCardProps){
     return(
         // main div 
-        <div className={`lg:w-85 lg:h-95 lg:mb-0 ---------- mb-5 w-[345.6px] h-89 bg-white/20 border-black/5 shadow flex flex-col items-center justify-center gap-2 rounded-[10px] border-3 ${bordercolor ?? ""}`}>
+        <div className={`lg:w-85 lg:h-95 lg:mb-0 ---------- mb-5 w-[325.6px] h-89 bg-white/20 border-black/5 shadow flex flex-col items-center justify-center gap-2 rounded-[10px] border-3 ${bordercolor ?? ""}`}>
             {/* image div */}
             <div className=" lg:w-77 lg:h-38 lg:rounded-[10px] lg:mt-0 ---------- h-40 overflow-hidden shadow border border-black/10 w-[305.6px] rounded-[10px] mt-1">
                 <img src={image} alt="project image" className="w-full h-full object-cover" />
