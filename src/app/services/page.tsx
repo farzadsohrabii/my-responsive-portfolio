@@ -28,7 +28,7 @@ export default function Services() {
                                     <h2 className="lg:text-[#784ce5] lg:font-semibold lg:mb-2 ---------- font-bold text-[22px]">My <span className="lg:text-[#784ce5] ---------- inline text-[#3f3964]">Services</span></h2>
                                 </div>
                                 {/* the services box */}
-                                <div className="lg:flex lg:flex-row w-full gap-6  justify-center">
+                                <div className="lg:flex lg:flex-row w-full gap-6  justify-center w-[325.6px]">
                                     {/* First services Box */}
                                     <div>
                                         <div className="lg:w-75 lg:h-85 lg:mb-0 lg:pl-4 lg:pr-4 ---------- pl-4 pr-4 mb-5 w-[345.6px] h-89 bg-white/20 border-b-[#61c3b6]/30 shadow flex flex-col items-center justify-center gap-1 rounded-[10px] border-3 border-l-0 border-r-0 border-t-0">
