@@ -62,7 +62,7 @@ export default function MobileView() {
                 </div>
             </main>
             <footer>
-                                                <div className="lg:h-38 lg:mt-5 lg:w-full lg:flex lg;:ml-0 lg:mb-0 ------  ml-7 mb-5 items-center justify-center w-[345.6px] rounded-[10px] ">
+                                                <div className="lg:h-38 lg:mt-5 lg:w-full lg:flex lg;:ml-0 lg:mb-0 ------  ml-7 mb-5 items-center justify-center rounded-[10px] w-[325.6px] ">
                                     <div className="lg:w-[60%] lg:h-32 gap-2 ---------- flex flex-col bg-white/20 rounded-[10px]  backdrop-blur-md border-black/5 shadow items-center justify-center ">
                                         <p className="lg:text-[17px] lg:font-bold ">Have a project in mind?</p>
                                         <p className="lg:text-[14px] lg:w-max  ---------- text-[13px] flex">Lets buildsomething great together.</p>
