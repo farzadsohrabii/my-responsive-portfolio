@@ -60,7 +60,7 @@ export default function Services() {
                                                 </ul>
                                             </div>
                                             <div className="w-full h-10">
-                                                <a target="blank" href="tel:+989992466" className="w-max h-full inline-flex items-center text-[#61c3b6] justify-center hover:text-black duration-200 text-[12px]">Lets work together →</a>
+                                                <a target="blank" href="tel:+989909992466" className="w-max h-full inline-flex items-center text-[#61c3b6] justify-center hover:text-black duration-200 text-[12px]">Lets work together →</a>
                                             </div>
                                         </div>
                                     </div>
@@ -96,7 +96,7 @@ export default function Services() {
                                                 </ul>
                                             </div>
                                             <div className="w-full h-10">
-                                                <a target="blank" href="tel:+989992466" className="w-max h-full inline-flex items-center text-[#f8a72b] justify-center hover:text-black duration-200 text-[12px]">Lets work together →</a>
+                                                <a target="blank" href="tel:+989909992466" className="w-max h-full inline-flex items-center text-[#f8a72b] justify-center hover:text-black duration-200 text-[12px]">Lets work together →</a>
                                             </div>
                                         </div>
                                         </div>
@@ -133,7 +133,7 @@ export default function Services() {
                                                 </ul>
                                             </div>
                                             <div className="w-full h-10">
-                                                <a target="blank" href="tel:+989992466" className="w-max h-full inline-flex items-center text-[#784ce5] justify-center hover:text-black duration-200 text-[12px]">Lets work together →</a>
+                                                <a target="blank" href="tel:+989909992466" className="w-max h-full inline-flex items-center text-[#784ce5] justify-center hover:text-black duration-200 text-[12px]">Lets work together →</a>
                                             </div>
                                         </div>
                                         </div>
