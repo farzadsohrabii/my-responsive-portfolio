@@ -19,6 +19,10 @@ export const metadata: Metadata = {
     icon: "/f-icon.svg",
   },
 
+   verification:{
+    google:"iQO-gcqPtB-QCjTVznGE-ypbLgg8sWkVfzbRBe6kyXk />"
+  },
+
   keywords:[
     "Farzad",
     "Sohrabi",
