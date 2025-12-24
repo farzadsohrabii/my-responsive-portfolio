@@ -35,7 +35,7 @@ export default function Projects() {;
                     <h2 className="lg:text-[#784ce5] lg:font-semibold lg:mb-2 ---------- font-bold text-[22px]">My <span className="lg:text-[#784ce5] ---------- inline text-[#61c3b6]">Projects</span></h2>
                 </div>
                 {/* the projects box */}
-                <div className="lg:flex lg:flex-row w-full gap-6  justify-center">
+                <div className="lg:flex lg:flex-row gap-6  justify-center w-[345.6px]">
                     <div>
                         <ProjectCard buttonColor="hover:bg-[#61c3b6]" bordercolor="border-b-[#61c3b6]/30" image="/PortfolioProje.png" name="Portfolio Website" description="My personal portfolio website with a responsive layout and modern UI" tag1="Next.js" tag2="TypeScript"tag3="Tailwind CSS" link="https://farzadsohrabi.me"/>
                     </div>
