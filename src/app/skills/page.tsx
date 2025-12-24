@@ -47,7 +47,7 @@ export default function Skills() {
                                             <MobileSkills skillname="js" />
                                         </div>
                                         <div className="lg:w-full lg:h-1/2 lg:bg-[#c0dafb]/60 lg:rounded-2xl lg:justify-center skillMiniBox">
-                                            <SkillCircle name="WordPress" percent={45} color="#3f3964" percentColor="text-[#3f3964]" />
+                                            <SkillCircle name="WordPress" percent={70} color="#3f3964" percentColor="text-[#3f3964]" />
                                             <MobileSkills skillname="react" />
                                         </div>
                                     </div>
