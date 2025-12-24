@@ -1,6 +1,7 @@
 "use client";
 import HomePage from "@/app/homePage/page";
 import Projects from "@/app/projects/page";
+import Services from "@/app/services/page";
 import Skills from "@/app/skills/page";
 import Link from "next/link";
 import { useState } from "react";
@@ -56,7 +57,23 @@ export default function MobileView() {
                 <div id="projects" className="w-full h-max mb-8">
                     <Projects/>
                 </div>
+                <div id="projects" className="w-full h-max mb-8">
+                    <Services/>
+                </div>
             </main>
+            <footer>
+                                                <div className="lg:h-38 lg:mt-5 lg:w-full lg:flex lg;:ml-0 lg:mb-0 ------  ml-7 mb-5 items-center justify-center w-[345.6px] rounded-[10px] ">
+                                    <div className="lg:w-[60%] lg:h-32 gap-2 ---------- flex flex-col bg-white/20 rounded-[10px]  backdrop-blur-md border-black/5 shadow items-center justify-center ">
+                                        <p className="lg:text-[17px] lg:font-bold ">Have a project in mind?</p>
+                                        <p className="lg:text-[14px] lg:w-max  ---------- text-[13px] flex">Lets buildsomething great together.</p>
+                                        <div className="lg:order-3 lg:w-38 lg:h-12 lg:font-semibold bg-[#582acd]/70 hover:text-[#582acd] hover:bg-[#b7c1d8] hover:border-[#582acd] hover:border-2  duration-200 lg:mb-0 --------- mb-2 flex items-center justify-center w-35 h-14 rounded font-bold">
+                                            <a href="tel:+989909992466" className="justify-center items-center inline-flex lg:w-38 lg:h-15 lg:font-semibold hover:text-[#582acd] --------- text-white">
+                                                Contact Me
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+            </footer>
         </div>
     </div>
   );
