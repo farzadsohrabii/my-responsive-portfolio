@@ -37,7 +37,7 @@ export default function Skills() {
                                             <MobileSkills skillname="html" />
                                         </div>
                                         <div className="lg:w-full lg:h-1/2 lg:bg-[#c0dafb]/60 lg:rounded-2xl lg:justify-center skillMiniBox">
-                                            <SkillCircle name="Python" percent={65} color="#61c3b6" percentColor="text-[#61c3b6]" />
+                                            <SkillCircle name="Python" percent={50} color="#61c3b6" percentColor="text-[#61c3b6]" />
                                             <MobileSkills skillname="css" />
                                         </div>
                                     </div>
