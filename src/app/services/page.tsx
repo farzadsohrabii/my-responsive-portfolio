@@ -21,14 +21,18 @@ export default function Services() {
                                 </ul>
                             </div>
                         </header>
-                        <main className="lg:ml-0 ----------flex ml-7">
-                            <div className="lg:pt-10 ">
-                                {/* this box is hidden in the desktop */}
-                                <div className="lg:hidden  ---------- flex mb-6">
-                                    <h2 className="lg:text-[#784ce5] lg:font-semibold lg:mb-2 ---------- font-bold text-[22px]">My <span className="lg:text-[#784ce5] ---------- inline text-[#3f3964]">Services</span></h2>
-                                </div>
-                                {/* the services box */}
-                                <div className="lg:flex lg:flex-row gap-6  justify-center w-[325.6px]">
+                                                <main className="lg:ml-0 ----------flex ml-7">
+                          <div className="lg:pt-10 ">
+                              {/* this box is hidden in the desktop */}
+                              <div className="lg:hidden  ---------- flex mb-6">
+                                  <h2 className="lg:text-[#784ce5] lg:font-semibold lg:mb-2 ---------- font-bold text-[22px]">My <span className="lg:text-[#784ce5] ---------- inline text-[#3f3964]">Services</span></h2>
+                              </div>
+                              {/* the projects box */}
+                              <div className="lg:flex lg:flex-row w-full gap-6  justify-center">
+                                    
+                                    
+                                    
+                                    
                                     {/* First services Box */}
                                     <div>
                                         <div className="lg:w-75 lg:h-85 lg:mb-0 lg:pl-4 lg:pr-4 ---------- pl-4 pr-4 mb-5 w-[325.6px] h-89 bg-white/20 border-b-[#61c3b6]/30 shadow flex flex-col items-center justify-center gap-1 rounded-[10px] border-3 border-l-0 border-r-0 border-t-0">
@@ -60,7 +64,7 @@ export default function Services() {
                                                 </ul>
                                             </div>
                                             <div className="w-full h-10">
-                                                <a target="blank" href="tel:+989909992466" className="w-max h-full inline-flex items-center text-[#61c3b6] justify-center hover:text-black duration-200 text-[12px]">Lets work together →</a>
+                                                <a target="blank" href="tel:+989992466" className="w-max h-full inline-flex items-center text-[#61c3b6] justify-center hover:text-black duration-200 text-[12px]">Lets work together →</a>
                                             </div>
                                         </div>
                                     </div>
@@ -96,7 +100,7 @@ export default function Services() {
                                                 </ul>
                                             </div>
                                             <div className="w-full h-10">
-                                                <a target="blank" href="tel:+989909992466" className="w-max h-full inline-flex items-center text-[#f8a72b] justify-center hover:text-black duration-200 text-[12px]">Lets work together →</a>
+                                                <a target="blank" href="tel:+989992466" className="w-max h-full inline-flex items-center text-[#f8a72b] justify-center hover:text-black duration-200 text-[12px]">Lets work together →</a>
                                             </div>
                                         </div>
                                         </div>
@@ -133,7 +137,7 @@ export default function Services() {
                                                 </ul>
                                             </div>
                                             <div className="w-full h-10">
-                                                <a target="blank" href="tel:+989909992466" className="w-max h-full inline-flex items-center text-[#784ce5] justify-center hover:text-black duration-200 text-[12px]">Lets work together →</a>
+                                                <a target="blank" href="tel:+989992466" className="w-max h-full inline-flex items-center text-[#784ce5] justify-center hover:text-black duration-200 text-[12px]">Lets work together →</a>
                                             </div>
                                         </div>
                                         </div>
