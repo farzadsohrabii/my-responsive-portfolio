@@ -1,6 +1,6 @@
 import DesktopView from "@/components/layouts/desktopView";
 import MobileView from "@/components/layouts/mobileView";
-
+import Schema from '@/components/Schema'
 
 
 
@@ -10,7 +10,7 @@ import MobileView from "@/components/layouts/mobileView";
 export default function Home() {
   return (
     <div lang="en" className="overflow-hidden">
-      
+      <Schema />
       {/* desktopView ... the main view for the desktop in the components/layouts/desktopview.tsx */}
       
       <div className="lg:block --------- hidden">
