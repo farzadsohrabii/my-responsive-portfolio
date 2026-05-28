@@ -11,9 +11,9 @@ const poppi = Poppins({
 
 
 export const metadata: Metadata = {
-  title: "Farzad Sohrabi | Frontend Developer",
+  title: "Farzad Sohrabi | Frontend Developer | برنامه نویس و توسعه‌دهنده فرانت اند | فرزاد سهرابی",
   
-  description: "Frontend Developer specialized in React, Next.js, and Tailwind CSS. Focused on building responsive and clean user interfaces.",
+  description: "فرزاد سهرابی، طراح و توسعه‌دهنده فرانت‌اند متخصص در React و Next.js. | Farzad Sohrabi, a professional Frontend Developer and Designer specializing in modern web technologies.",
  
   icons: {
     icon: "/f-icon.svg",
@@ -37,12 +37,14 @@ export const metadata: Metadata = {
     "nextjs",
     "next.js",
     "Next.JS",
+    "UI Designer",
     "فرزاد سهرابی",
     "فرزاد",
     "سهرابی",
     "فرانت اند",
     "برنامه نویس",
     "طراح سایت",
+    " برنامه نویس وب ",
   ],
 };
 
