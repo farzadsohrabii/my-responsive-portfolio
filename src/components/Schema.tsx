@@ -5,13 +5,12 @@ export default function Schema() {
     name: 'فرزاد سهرابی',
     alternateName: ["Farzad Sohrabi", "فرزاد", "فرزاد سهرابی" ],
     url: 'https://farzadsohrabi.site',
-    image: 'https://yourdomain.com/farzad-photo.jpg', // آدرس عکس پروفایلت
+    image: 'https://www.farzadsohrabi.site/MobileHome.jpg', // آدرس عکس پروفایلت
     jobTitle: 'Frontend Developer',
-    description: 'طراح و توسعه‌دهنده فرانت‌اِند متخصص در React و Next.js',
+    description: "فرزاد سهرابی، طراح و توسعه‌دهنده فرانت‌اند متخصص در React و Next.js. | Farzad Sohrabi, a professional Frontend Developer and Designer specializing in modern web technologies.",
     sameAs: [
-      'https://github.com/your-username',
-      'https://linkedin.com/in/your-username',
-      'https://instagram.com/your-username'
+      'https://github.com/farzadsohrabii',
+      'https://instagram.com/frrrrrrrrrrrrrrrrrrrrrri'
     ],
     knowsAbout: [
       'Frontend Development',
